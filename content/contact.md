@@ -1,8 +1,8 @@
 ---
 title: "Contact"
-date: 2025-8-29
+date: 2024-12-29
 hidemeta: true
-description: "Yixing Zhao's contact information."
+description: "Yucheng Zhou's contact information."
 
 ---
 
@@ -10,6 +10,25 @@ description: "Yixing Zhao's contact information."
 
 #### E-mail address
 
-y679zhao@uwaterloo.ca
+yz33@illinois.edu
+
+---
+
+#### Mailing address
+
+107 J  
+Irwin Doctoral Student Hall  
+University of Illinois at Urbana-Champaign
+
+---
+
+
+#### References
+
+Heitor Almeida (halmeida@illinois.edu)
+
+Victor Duarte (vduarte@illinois.edu)
+
+<!-- Timothy C. Johnson (tcj@illinois.edu) -->
 
 ---
