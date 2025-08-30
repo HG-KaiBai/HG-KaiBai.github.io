@@ -53,7 +53,7 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: Yixing Zhao
+          title: Yixing Zhao / 赵羿星
           subtitle: "I am a current PhD candidate in Biostatistics under the supervision of Prof. Liqun Diao. I completed a Bachelor of Mathematics in Computational Mathematics at the University of Waterloo in 2023, and then obtained a Master of Mathematics in Statistics from the University of Waterloo in 2024. My research interests are Bayesian methods and machine learning."
           imageUrl: "picture.jpeg"
           imageWidth: 160
