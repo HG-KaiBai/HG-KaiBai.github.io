@@ -73,7 +73,7 @@ params:
         - name: CV
           url: cv.pdf
         - name: Email
-          url: y679zhao@uwaterloo.ca
+          url: mailto:y679zhao@uwaterloo.ca
         - name: GitHub
           url: https://github.com/HG-KaiBai
 
