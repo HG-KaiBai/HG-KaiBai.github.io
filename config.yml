@@ -14,25 +14,22 @@ menu:
         - name: Publications
           url: papers/
           weight: 2 
-        - name: Contact
-          url: contact/
-          weight: 3
         - name: Teaching
           url: courses/
-          weight: 4
+          weight: 3
         - name: Experience
           url: experience/
-          weight: 5
+          weight: 4
         - name: CV
           url: cv.pdf
-          weight: 6
+          weight: 5
         - name: Blog
           url: blog/
-          weight: 7
+          weight: 6
 
 params:
-    description: "This website hosts Moritz-Maria von Igelfeld's research papers, books, course materials, data, curriculum vitae, and contact information."
-    author: Yixing Zhao
+    description: "This website hosts Yixing Zhao's research papers, experience, CV, and other information."
+    author: Yixing Zhao / 赵羿星
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
     defaultTheme: light
@@ -64,8 +61,6 @@ params:
           buttons:
             - name: Publications
               url: papers/
-            - name: Contact
-              url: contact/
             - name: Teaching
               url: courses/
             - name: Experience

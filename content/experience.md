@@ -5,6 +5,23 @@ hidemeta: true
 description: "Relevant experience of Yixing Zhao"
 ---
 
+### Education
+
+#### 2024 – present
++ University of Waterloo, Waterloo, ON, Canada  
+  Ph.D. in Statistics (Biostatistics)
+
+#### 2023 – 2024
++ University of Waterloo, Waterloo, ON, Canada  
+  Master of Mathematics in Statistics
+
+#### 2020 – 2023
++ University of Waterloo, Waterloo, ON, Canada  
+  Bachelor of Mathematics in Computational Mathematics  
+  Minor in Statistics, Combinatorics and Optimization, and Computing
+
+---
+
 ### Academic & Professional Service
 
 #### 2025
