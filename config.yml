@@ -20,12 +20,15 @@ menu:
         - name: Teaching
           url: courses/
           weight: 4
+        - name: Experience
+          url: experience/
+          weight: 5
         - name: CV
           url: cv.pdf
-          weight: 5 
+          weight: 6
         - name: Blog
           url: blog/
-          weight: 6
+          weight: 7
 
 params:
     description: "This website hosts Moritz-Maria von Igelfeld's research papers, books, course materials, data, curriculum vitae, and contact information."
@@ -65,6 +68,8 @@ params:
               url: contact/
             - name: Teaching
               url: courses/
+            - name: Experience
+              url: experience/
             - name: CV
               url: cv.pdf
             - name: Blog
