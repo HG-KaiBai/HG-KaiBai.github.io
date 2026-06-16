@@ -61,14 +61,14 @@ params:
           buttons:
             - name: Publications
               url: papers/
+            - name: Presentations
+              url: presentations/
             - name: Teaching
               url: courses/
             - name: Experience
               url: experience/
             - name: CV
               url: cv.pdf
-            - name: Presentations
-              url: presentations/
     socialIcons:
         - name: CV
           url: cv.pdf
