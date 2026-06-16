@@ -26,9 +26,6 @@ menu:
         - name: CV
           url: cv.pdf
           weight: 6
-        - name: Blog
-          url: blog/
-          weight: 7
 
 params:
     description: "This website hosts Yixing Zhao's research papers, experience, CV, and other information."
