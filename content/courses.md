@@ -14,6 +14,7 @@ description: "Teaching experience of Yixing Zhao"
 + STAT 331 - Applied Linear Models (Spring)
 + STAT 431 - Generalized Linear Models and their Applications (Winter)
 
+---
 
 #### 2025
 + STAT 221 - Statistics (Non-Specialist Level) (Fall)
