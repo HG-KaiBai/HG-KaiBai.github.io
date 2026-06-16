@@ -2,6 +2,7 @@
 title: "Experience"
 date: 2025-08-28
 hidemeta: true
+ShowPostNavLinks: false
 description: "Relevant experience of Yixing Zhao"
 ---
 
@@ -24,8 +25,14 @@ description: "Relevant experience of Yixing Zhao"
 
 ### Academic & Professional Service
 
+#### 2026
++ Mentor – University of Waterloo Women in Mathematics Directed Reading Program (Spring)
++ Internship - Mitacs Accelerate (Post-pandemic mortality)
+
 #### 2025
 + Mentor – University of Waterloo Women in Mathematics Directed Reading Program (Winter)
++ Internship - Mitacs Accelerate (Post-pandemic mortality)
+
 
 #### 2024
 + Research Assistant – Mortality Forecast (Winter)

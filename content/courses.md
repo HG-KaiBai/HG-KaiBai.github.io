@@ -2,6 +2,7 @@
 title: "Teaching"
 date: 2025-08-28
 hidemeta: true
+ShowPostNavLinks: false
 description: "Teaching experience of Yixing Zhao"
 ---
 
