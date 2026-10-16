@@ -15,6 +15,7 @@ content/
   experience.md             Education, service, and awards
 layouts/                    Site-specific template overrides
 static/
+  cv.pdf                    Current academic CV download
   images/profile.jpg        Homepage portrait
   favicon*                  Browser icons
 themes/PaperMod/            Bundled theme and its license
@@ -48,7 +49,7 @@ Hugo generates `public/` and `resources/`; these are ignored and should not be c
 
 The previous `/papers/`, `/courses/`, and `/presentation/ssc-2026/` addresses redirect to the reorganized pages.
 
-The old CV links were removed because `static/cv.pdf` was missing. To restore a CV download, add the intended PDF at `static/cv.pdf` and add a `CV` link to `cv.pdf` in the menu and profile buttons in `config.yml`.
+The navigation and homepage **CV** buttons link to `static/cv.pdf`, served at [hg-kaibai.github.io/cv.pdf](https://hg-kaibai.github.io/cv.pdf). This is a copy of `../academic-cv/Yixing_Zhao_Academic_CV.pdf`. After editing the academic CV, refresh this copy before deploying. From the workspace root, `./build.ps1` rebuilds both job resumes and the academic CV and refreshes the website copy; `./academic-cv/build.ps1` rebuilds only the academic CV and refreshes the copy.
 
 ## GitHub Pages
 

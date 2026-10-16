@@ -24,6 +24,9 @@ menu:
         - name: Experience
           url: experience/
           weight: 4
+        - name: CV
+          url: cv.pdf
+          weight: 5
 
 params:
     description: "Yixing Zhao is a PhD candidate in Biostatistics at the University of Waterloo, researching Bayesian methods and machine learning."
@@ -66,6 +69,8 @@ params:
               url: teaching/
             - name: Experience
               url: experience/
+            - name: CV
+              url: cv.pdf
     socialIcons:
         - name: Email
           url: mailto:y679zhao@uwaterloo.ca
