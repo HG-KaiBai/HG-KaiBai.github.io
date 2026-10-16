@@ -10,17 +10,13 @@ contentClass: teaching-content
 
 ## Teaching Assistant
 
-### STAT 221 — Statistics (Non-Specialist Level)
+### STAT 431 — Generalized Linear Models and their Applications
 
-Fall 2025
+Fall 2026 · Winter 2026
 
-### STAT 230 — Probability
+### STAT 437 — Statistical Methods for Life History Analysis
 
-Spring 2025
-
-### STAT 231 — Statistics
-
-Spring 2026 · Winter 2026
+Winter 2025
 
 ### STAT 331 — Applied Linear Models
 
@@ -34,13 +30,17 @@ Spring 2025 · Fall 2024
 
 Fall 2024
 
-### STAT 431 — Generalized Linear Models and their Applications
+### STAT 231 — Statistics
 
-Fall 2026 · Winter 2026
+Spring 2026 · Winter 2026
 
-### STAT 437 — Statistical Methods for Life History Analysis
+### STAT 221 — Statistics (Non-Specialist Level)
 
-Winter 2025
+Fall 2025
+
+### STAT 230 — Probability
+
+Spring 2025
 
 ### ME 202 — Statistics for Engineers
 
