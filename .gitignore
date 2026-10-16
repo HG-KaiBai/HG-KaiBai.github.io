@@ -2,3 +2,8 @@
 public/
 resources/
 .hugo_build.lock
+
+# Local cache and operating system files
+.cache/
+.DS_Store
+Thumbs.db

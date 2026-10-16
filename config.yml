@@ -1,36 +1,33 @@
 baseURL: "https://hg-kaibai.github.io/"
-title: Yixing Zhao | Waterloo BioStatistics PhD Student
+title: Yixing Zhao | Biostatistics PhD Candidate
 theme: PaperMod
+languageCode: en-ca
+defaultContentLanguage: en
 
 enableInlineShortcodes: true
 enableRobotsTXT: true
 
 
-taxonomies:
-    tag: tags
+disableKinds: [taxonomy, term]
 
 menu:
     main:
         - name: Publications
-          url: papers/
-          weight: 2 
+          url: publications/
+          weight: 1
         - name: Presentations
           url: presentations/
-          weight: 3
+          weight: 2
         - name: Teaching
-          url: courses/
-          weight: 4
+          url: teaching/
+          weight: 3
         - name: Experience
           url: experience/
-          weight: 5
-        - name: CV
-          url: cv.pdf
-          weight: 6
+          weight: 4
 
 params:
-    description: "This website hosts Yixing Zhao's research papers, experience, CV, and other information."
+    description: "Yixing Zhao is a PhD candidate in Biostatistics at the University of Waterloo, researching Bayesian methods and machine learning."
     author: Yixing Zhao / 赵羿星
-    # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
     defaultTheme: light
     hideFooter: true
@@ -43,35 +40,33 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: ["papers"]
+    MainSections: ["publications", "presentations"]
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
     ShowWordCount: false
     UseHugoToc: true
     comments: false
-    math: true
+    # Enable math in a page's front matter only when it contains equations.
+    math: false
     profileMode:
           enabled: true
           title: Yixing Zhao / 赵羿星
           subtitle: "I am a current PhD candidate in Biostatistics under the supervision of Prof. Liqun Diao. I completed a Bachelor of Mathematics in Computational Mathematics at the University of Waterloo in 2023, and then obtained a Master of Mathematics in Statistics from the University of Waterloo in 2024. My research interests are Bayesian methods and machine learning."
-          imageUrl: "picture.jpg"
+          imageUrl: "images/profile.jpg"
+          imageTitle: "Yixing Zhao"
           imageWidth: 160
           imageHeight: 160
           buttons:
             - name: Publications
-              url: papers/
+              url: publications/
             - name: Presentations
               url: presentations/
             - name: Teaching
-              url: courses/
+              url: teaching/
             - name: Experience
               url: experience/
-            - name: CV
-              url: cv.pdf
     socialIcons:
-        - name: CV
-          url: cv.pdf
         - name: Email
           url: mailto:y679zhao@uwaterloo.ca
         - name: GitHub

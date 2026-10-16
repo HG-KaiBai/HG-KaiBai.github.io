@@ -1,7 +1,7 @@
 ---
 title: "MAP-EM Polya Trees for Survival Analysis with Complex Censoring"
 date: 2026-06-16
-url: /presentation/ssc-2026/
+aliases: ["/presentation/ssc-2026/"]
 conference: "2026 SSC Annual Meeting in Hamilton"
 author: ["Yixing Zhao", "Liqun Diao"]
 description: "Presentation on MAP-EM Polya trees for survival analysis with complex censoring."

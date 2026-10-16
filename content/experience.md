@@ -27,11 +27,11 @@ description: "Relevant experience of Yixing Zhao"
 
 #### 2026
 + Mentor – University of Waterloo Women in Mathematics Directed Reading Program (Spring)
-+ Internship - Mitacs Accelerate (Post-pandemic mortality)
++ Research Internship - Mitacs Accelerate (Mortality Forecasting)
 
 #### 2025
 + Mentor – University of Waterloo Women in Mathematics Directed Reading Program (Winter)
-+ Internship - Mitacs Accelerate (Post-pandemic mortality)
++ Research Internship - Mitacs Accelerate (Mortality Forecasting)
 
 
 #### 2024
@@ -40,6 +40,11 @@ description: "Relevant experience of Yixing Zhao"
 ---
 
 ### Awards
+
+#### 2026
++ University of Waterloo Graduate Scholarship
++ Women in Mathematics Mentorship Award 
++ Statistics & Actuarial Science Chair's Award
 
 #### 2025
 + Women in Mathematics Mentorship Award  

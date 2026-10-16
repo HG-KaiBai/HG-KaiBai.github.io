@@ -1,8 +1,9 @@
 ---
 title: "Talk Title"
-date: 2026-06-16
+date: {{ .Date }}
+draft: true
 conference: "Conference or event name"
-author: ["Author 1", "Author 2"]
+author: ["Yixing Zhao"]
 description: "Short description for search engines."
 summary: "Brief summary for the presentations list page."
 hidemeta: true
@@ -18,7 +19,7 @@ Talk Title
 
 ##### Author
 
-Author 1, Author 2
+Yixing Zhao
 
 ##### Abstract
 
