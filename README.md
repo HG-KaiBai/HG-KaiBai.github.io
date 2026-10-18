@@ -9,7 +9,7 @@ Source for [hg-kaibai.github.io](https://hg-kaibai.github.io/), built with Hugo 
 archetypes/                 Starting points for new research entries
 assets/css/                 Site-specific styles
 content/
-  publications/             Research papers and preprints
+  research/                 R packages, web interfaces, papers, and preprints
   presentations/            Conference talks and abstracts
   teaching.md               Teaching experience
   experience.md             Education, service, and awards
@@ -43,11 +43,12 @@ Hugo generates `public/` and `resources/`; these are ignored and should not be c
 - Edit the biography, contact links, and navigation in `config.yml`.
 - Edit teaching and experience in their Markdown files under `content/`.
 - Create a talk with `hugo new content presentations/talk-name/index.md --kind presentation`.
-- Create a paper with `hugo new content publications/paper-name/index.md --kind paper`.
+- Edit `content/research/_index.md` for research software and web interfaces, including mortselect.
+- Create a paper with `hugo new content research/paper-name/index.md --kind paper`.
 - Keep each paper or talk's PDFs, figures, and slides beside its `index.md`, and link to their filenames from that page.
 - Set `draft: false` when a new entry is ready to publish. Add `math: true` to an individual page only if it needs equation rendering.
 
-The previous `/papers/`, `/courses/`, and `/presentation/ssc-2026/` addresses redirect to the reorganized pages.
+The previous `/publications/` and `/papers/` addresses redirect to `/research/`. The previous `/courses/` and `/presentation/ssc-2026/` addresses also redirect to their reorganized pages.
 
 The navigation and homepage **CV** buttons link to `static/cv.pdf`, served at [hg-kaibai.github.io/cv.pdf](https://hg-kaibai.github.io/cv.pdf). This is a copy of `../academic-cv/Yixing_Zhao_Academic_CV.pdf`. After editing the academic CV, refresh this copy before deploying. From the workspace root, `./build.ps1` rebuilds both job resumes and the academic CV and refreshes the website copy; `./academic-cv/build.ps1` rebuilds only the academic CV and refreshes the copy.
 

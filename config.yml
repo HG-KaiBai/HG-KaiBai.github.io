@@ -12,8 +12,8 @@ disableKinds: [taxonomy, term]
 
 menu:
     main:
-        - name: Publications
-          url: publications/
+        - name: Research
+          url: research/
           weight: 1
         - name: Presentations
           url: presentations/
@@ -43,7 +43,7 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: ["publications", "presentations"]
+    MainSections: ["research", "presentations"]
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
@@ -61,8 +61,8 @@ params:
           imageWidth: 160
           imageHeight: 160
           buttons:
-            - name: Publications
-              url: publications/
+            - name: Research
+              url: research/
             - name: Presentations
               url: presentations/
             - name: Teaching
