@@ -45,6 +45,7 @@ Hugo generates `public/` and `resources/`; these are ignored and should not be c
 - Create a talk with `hugo new content presentations/talk-name/index.md --kind presentation`.
 - The Research page lists Publications & Preprints first, then R Packages & Web Interfaces, using the same card style as Presentations.
 - Edit `content/research/mortselect/index.md` for the mortselect card summary and detail page. Give software entries `researchkind: software`; research entries without this field appear under Publications & Preprints.
+- Add `links` in an entry's front matter (each with `label` and `url`) to show direct resource links on its card. The title opens the detail page; resource links open their own destinations in a new tab.
 - Edit `content/research/_index.md` for the message shown when no publications are listed. The page title remains in navigation and metadata but is omitted from the page body.
 - Create a paper with `hugo new content research/paper-name/index.md --kind paper`.
 - Keep each paper or talk's PDFs, figures, and slides beside its `index.md`, and link to their filenames from that page.

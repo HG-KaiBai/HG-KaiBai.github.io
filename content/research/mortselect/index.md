@@ -4,6 +4,11 @@ researchkind: software
 description: "An R package for mortality forecasting with population selection, age-specific band selection, and ensemble methods, accompanied by an interactive forecast explorer."
 summary: "An R package for mortality forecasting through population selection, age-specific band selection, and bivariate ensembles. Its web interface compares saved forecasts by age, population, and year, with interactive charts and CSV/SVG downloads."
 hidemeta: true
+links:
+  - label: "R package & source code"
+    url: "https://github.com/HG-KaiBai/mortselect"
+  - label: "Open web interface"
+    url: "https://hg-kaibai.github.io/mortselect/"
 ---
 
 [R package & source code](https://github.com/HG-KaiBai/mortselect) · [Open web interface](https://hg-kaibai.github.io/mortselect/)
@@ -21,7 +26,3 @@ The package supports data preparation, model fitting, validation, and forecastin
 ## Web Interface
 
 The **Mortality Forecast Explorer** provides interactive comparisons of saved forecasts by age, population, and year. It includes method-specific filters, a log scale, shareable views, and CSV/SVG downloads. The interface runs entirely in the browser and displays precomputed forecasts; new models and forecasts can be generated with the R package.
-
-## Authors
-
-Yixing Zhao (author and maintainer), Liqun Diao, Yechao Meng, and Chengguo Weng.
