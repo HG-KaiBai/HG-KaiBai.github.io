@@ -1,0 +1,22 @@
+{{- define "main" }}
+
+<section class="research-section" aria-labelledby="publications-preprints">
+  <h2 class="research-heading" id="publications-preprints">Publications &amp; Preprints</h2>
+  {{- $papers := where .RegularPages "Params.researchkind" "ne" "software" }}
+  {{- if $papers }}
+    {{- range $papers }}
+      {{- partial "research_entry.html" . }}
+    {{- end }}
+  {{- else }}
+  <div class="post-content">{{ .Content }}</div>
+  {{- end }}
+</section>
+
+<section class="research-section" aria-labelledby="r-packages-web-interfaces">
+  <h2 class="research-heading" id="r-packages-web-interfaces">R Packages &amp; Web Interfaces</h2>
+  {{- range where .RegularPages "Params.researchkind" "eq" "software" }}
+    {{- partial "research_entry.html" . }}
+  {{- end }}
+</section>
+
+{{- end }}

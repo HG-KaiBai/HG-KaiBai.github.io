@@ -1,0 +1,25 @@
+.research-heading {
+    margin: 24px 0 var(--content-gap);
+    font-size: var(--h1size);
+    line-height: var(--lineheight);
+}
+
+.research-section + .research-section {
+    margin-top: 32px;
+}
+
+.research-entry .entry-header h3 {
+    font-size: 20px;
+    line-height: var(--lineheight);
+}
+
+.research-entry .entry-content {
+    display: block;
+    margin: 12px 0 0;
+    overflow: visible;
+    -webkit-line-clamp: unset;
+}
+
+.research-entry:focus-within {
+    border-color: var(--darkcolor);
+}
