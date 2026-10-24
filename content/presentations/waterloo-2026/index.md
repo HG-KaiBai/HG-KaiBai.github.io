@@ -2,17 +2,20 @@
 title: "Neural Regression Trees for Censored and Uncensored Outcomes"
 date: 2026-10-23
 publishDate: 2026-10-15
+lastmod: 2026-10-23
 draft: false
 conference: "Waterloo Student Conference in Statistics, Actuarial Science and Finance"
 author: ["Yixing Zhao", "Liqun Diao"]
 description: "Neural Regression Trees for Censored and Uncensored Outcomes."
-summary: "Waterloo Student Conference, October 23, 2026: Neural Regression Trees for Censored and Uncensored Outcomes."
+summary: "Presented at the Waterloo Student Conference on October 23, 2026: Neural Regression Trees for Censored and Uncensored Outcomes."
 hidemeta: true
 ---
 
 ##### Conference
 
 Waterloo Student Conference in Statistics, Actuarial Science and Finance
+
+Presented on October 23, 2026, at the University of Waterloo.
 
 ##### Title
 
